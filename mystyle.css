@@ -1,0 +1,29 @@
+#header{
+	height: 100px;
+    text-align: center;
+    background: gray;
+    font-size: 100px;
+    font-weight: bolder;
+}
+
+#body{
+	height:200px;
+
+}
+
+.column{
+	width: 321px;
+    height: 200px;
+    background: green;
+    float: left;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#footer{
+		height: 100px;
+    text-align: center;
+    background: gray;
+    font-size: 100px;
+    font-weight: bolder;
+}
